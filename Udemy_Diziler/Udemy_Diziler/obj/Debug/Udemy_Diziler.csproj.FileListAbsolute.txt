@@ -1,0 +1,11 @@
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\bin\Debug\Udemy_Diziler.exe.config
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\bin\Debug\Udemy_Diziler.exe
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\bin\Debug\Udemy_Diziler.pdb
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.csproj.AssemblyReference.cache
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.csproj.SuggestedBindingRedirects.cache
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.Form1.resources
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.Properties.Resources.resources
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.csproj.GenerateResource.cache
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.csproj.CoreCompileInputs.cache
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.exe
+D:\C# N.Y\Udemy_Diziler\Udemy_Diziler\obj\Debug\Udemy_Diziler.pdb
